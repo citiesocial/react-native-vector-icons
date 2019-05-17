@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native-vector-icons/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/f125105e7e5536fa19f4b860fdcc4f4c/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native-vector-icons/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/f125105e7e5536fa19f4b860fdcc4f4c/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
